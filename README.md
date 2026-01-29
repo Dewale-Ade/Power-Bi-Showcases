@@ -1,2 +1,1 @@
-# Power-Bi-Showcases
-Data Professional Survey
+This repository contains the Power BI projects created by following videos made by the YouTuber - Alex The Analyst, Power BI Tutorials for Beginners. https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=tMUQ6qTXLOED-4n1
